@@ -37,3 +37,28 @@ and based on PyTunes by Davyd Madeley.
 %doc CHANGELOG README PKG-INFO
 %{py_platsitedir}/*
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0.7.1-3mdv2010.0
++ Revision: 442091
+- rebuild
+
+* Fri Dec 26 2008 Adam Williamson <awilliamson@mandriva.org> 0.7.1-2mdv2009.1
++ Revision: 319525
+- rebuild with python 2.6
+
+* Thu Apr 17 2008 Adam Williamson <awilliamson@mandriva.org> 0.7.1-1mdv2009.0
++ Revision: 195313
+- drop patch (merged upstream)
+- new release 0.7.1
+
+* Thu Mar 13 2008 Adam Williamson <awilliamson@mandriva.org> 0.7-2mdv2008.1
++ Revision: 187382
+- add x86_64_crash.patch to fix the x86-64 crash reported by erwan and anne (from upstream via Debian bug #426046)
+
+* Sun Mar 09 2008 Adam Williamson <awilliamson@mandriva.org> 0.7-1mdv2008.1
++ Revision: 182730
+- import python-daap
+
+
