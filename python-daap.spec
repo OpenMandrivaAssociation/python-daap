@@ -5,7 +5,7 @@ Summary:	DAAP client written in Python
 Version:	0.7.1
 Release:	%{mkrel 3}
 Source0:	http://jerakeen.org/files/%{fname}-%{version}.tar.gz
-URL:		http://jerakeen.org/code/pythondaap/
+URL:		https://jerakeen.org/code/pythondaap/
 Group:		Development/Python
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	LGPL+
